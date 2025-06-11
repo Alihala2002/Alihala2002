@@ -13,7 +13,7 @@ A passionate Computer Engineering student from Palestine.
 
 ### Connect with me:
 - [LinkedIn: Ali Halayqa](https://www.linkedin.com/in/ali-halayqa/)
-- [Twitter: @AliHalayqa](https://twitter.com/AliHalayqa) *(If you have a Twitter)*
+
 
 ---
 
